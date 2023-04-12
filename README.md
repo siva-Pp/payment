@@ -1,0 +1,3 @@
+android studio codes in Java...
+
+(1) check network state
